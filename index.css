@@ -1,0 +1,50 @@
+
+
+body {
+	
+	background-image: url(https://images.pexels.com/photos/1323712/pexels-photo-1323712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	
+	background-size: cover;
+	
+	background-repeat: no-repeat;
+	
+	background-position: center;
+	font-family: 'EB Garamond', serif;
+	font-weight: bold;
+	font-size: 1rem;
+}
+#gmap_canvas {
+
+	height: 80vh;
+	width: 100%;
+
+}
+
+.fa-icons {
+
+	margin-bottom: 2rem;
+	margin-left: 2 rem;
+	margin-right: 2rem;
+	font-size: 3rem;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+#image {
+
+	height: 300px;
+	width: 300px;
+	border-radius: 75px;
+	padding: 2rem;
+	margin-bottom: 1rem;
+}
+
+#image_landing {
+
+	height: 350px;
+	width: 350px;
+	border-radius: 175px;
+	opacity: .80;
+}
